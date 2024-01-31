@@ -26,10 +26,10 @@ body {
 }
 
 .cabecalho .menu li a {
-    padding: 30px;
+    padding: 22px;
     color: #e8e8e8;
     font-weight: bolder;
-    font-size: 15px;
+    font-size: 22px;
     font-family: 'Chalet';
 }
 
@@ -112,6 +112,7 @@ body {
 }
 
 .compre-ja{
+
     display: flex;
     flex-direction: column;
     text-align: center;
